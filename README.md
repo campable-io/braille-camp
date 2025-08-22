@@ -144,8 +144,8 @@ This project was made possible through the generous support of the following org
 
 - [SK Happiness Foundation](https://skhappiness.org)
 - [DLG Law Firm](https://dlglaw.co.kr)
-- [Brain Impact](https://brianimpact.org)
+- [Brian Impact](https://brianimpact.org)
 - [Yonsei-Makerspace](https://www.makerspacei7.com)
-- [Purmae Foundation](https://purme.org)
+- [Purme Foundation](https://purme.org)
 
 Special thanks to our mentors, collaborators, and all the visually impaired students and educators who shared their insights and feedback throughout the process. Your contributions have been invaluable in shaping a truly user-centered solution.
