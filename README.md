@@ -1,4 +1,4 @@
-# CampAble Korean Math Braille Transcription Service
+# 시각장애인을 위한 수학 점자 변환 서비스 / Korean Math Braille Transcription Service
 
 **Convert LaTeX mathematical notation to Korean Math Braille with accessibility in mind.**
 
